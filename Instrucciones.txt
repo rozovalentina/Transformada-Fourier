@@ -1,0 +1,3 @@
+Guarda tu archivo de audio en formato WAV en la misma carpeta que este script.
+Abre MATLAB y ejecuta el script.
+Se mostrarán los resultados y las gráficas en la ventana de comandos y en nuevas ventanas de gráficos
